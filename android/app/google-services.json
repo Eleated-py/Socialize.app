@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832220944840",
+    "project_id": "firesocial-351d4",
+    "storage_bucket": "firesocial-351d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832220944840:android:b4ebe24d13c56ac2e4c8fd",
+        "android_client_info": {
+          "package_name": "com.example.mobile_proyects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRFRi_5mom0iDzowKF625HqXkbsbSo3os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832220944840:android:1567a00fda383b44e4c8fd",
+        "android_client_info": {
+          "package_name": "com.firesocial.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRFRi_5mom0iDzowKF625HqXkbsbSo3os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
